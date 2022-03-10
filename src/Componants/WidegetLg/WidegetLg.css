@@ -1,0 +1,55 @@
+.widegetLg{
+    flex: 1 ;
+    box-shadow: -2px 3px 11px 1px rgba(209,50,50,0.39);
+    -webkit-box-shadow: -2px 3px 11px 1px rgba(209,50,50,0.39);
+    -moz-box-shadow: -2px 3px 11px 1px rgba(209,50,50,0.39);
+    margin: 20px;
+    padding: 20px;
+    position: absolute;
+    top: 520px;
+    left: 680px;
+    width: 42%
+    ;
+    height: 375px;
+    border-radius: 10px;
+}
+.widegetimg {
+    flex: 1 1;
+    border-radius: 50%;
+    object-fit: cover;
+    width: 34%;
+    margin-left: -35px;
+}
+.widegetLgTr{
+    margin: 0px;
+    padding: 1  px;
+}
+tbody, td, tfoot, th, thead, tr {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+    padding: 10px;
+margin-left: 10px;}
+
+    .wifegetBtn{
+        background-color: rgb(223, 228, 240);
+        border: none;
+        border-radius: 10px;
+        color: rgb(226, 147, 147);
+        cursor: pointer;
+        padding: 5px;                       
+        
+        text-align: center;
+
+    }
+    .widegetDate{
+        font-size: 15px;
+        margin: 10px;
+        padding: 15px;
+    }
+    .widegetLgTable {
+        left: 7px;
+        padding: 6px;
+        margin: 12px;
+            margin-left: 12px;
+        margin-left: 46px;}

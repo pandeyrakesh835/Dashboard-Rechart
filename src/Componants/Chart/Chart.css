@@ -1,0 +1,18 @@
+.chart{
+    margin: 0px;
+    padding: 0px;
+    box-shadow: -2px 3px 11px 1px rgba(209,50,50,0.39);
+    -webkit-box-shadow: -2px 3px 11px 1px rgba(209,50,50,0.39);
+    -moz-box-shadow: -2px 3px 11px 1px rgba(209,50,50,0.39);
+    margin-top: 146px;
+    position: absolute;
+    width: 77%;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 216px;
+    padding-left: 89px;
+    
+};
+.heading{
+    margin-top: 10px;
+}

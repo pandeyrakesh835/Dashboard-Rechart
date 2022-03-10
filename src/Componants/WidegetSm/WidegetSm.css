@@ -1,0 +1,71 @@
+
+
+.widegetSm {
+flex: 1;
+    position: absolute;
+    left: 246px;
+    bottom: -337px;
+    box-shadow: -2px 3px 11px 1px rgba(209,50,50,0.39);
+    -webkit-box-shadow: -2px 3px 11px 1px rgba(209,50,50,0.39);
+    -moz-box-shadow: -2px 3px 11px 1px rgba(209,50,50,0.39);
+    padding: 5px;
+    width: 30%;
+    border-radius: 10px;
+    height:67%;
+    
+}
+.widegedTitle{
+    flex: 1;
+    font-size: 29px;
+    font-weight: 600;
+    display: flex;
+    margin: 10px;
+}
+.omen{
+    border-radius: 50%;
+    object-fit: cover;
+    width: 11%;
+    margin-left: 20px;
+}
+.widesmList{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    margin-left: -10px;
+}
+.widegedListItem{
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    
+}
+.btnAnna{
+    flex: 1;
+    margin-left: 50px;
+    margin: 17px 45px;
+    /* margin-top: -10px; */
+    display: flex;
+    align-items: center;
+border: none;
+border-radius: 10px;
+background-color: rgb(229, 221, 235);
+color: rgb(170, 45, 45);
+cursor: pointer;
+margin-top: 0px;
+font-size: 14px;
+justify-content: center;
+    
+}
+.wideSmIcon{
+    font-size: 20px;
+}
+.anakilerName{
+    font-weight: 600;
+    /* padding: 10px; */
+}
+.annakiler{
+    display: flex;
+    flex-direction: column;
+    /* margin: 10px; */
+}

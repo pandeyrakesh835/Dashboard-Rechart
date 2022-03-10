@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+}
+
+
+
+.other pages{
+    flex: 4;
+    background-color: royalblue;
+}
